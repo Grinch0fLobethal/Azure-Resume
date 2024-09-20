@@ -4,3 +4,4 @@ My Azure resume challenge
 
 - Frontend folder contains the website.
 - main.js contains visitor counter code.
+- added API
